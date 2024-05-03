@@ -1,4 +1,4 @@
-# 🌟🌍 Wealth of Nations Dataset Analysis
+# 🌍🌟 Wealth of Nations Dataset Analysis🌟🌍
 
 ## 🚀 Overview
 This repository contains the analysis of the Wealth of Nations dataset using Excel and Tableau. The dataset provides insights into various socio-economic indicators across different countries. The analysis involves data cleaning, filtering, sorting, and visualization to uncover trends and patterns.
