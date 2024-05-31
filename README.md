@@ -18,13 +18,12 @@ After preprocessing the data in Excel, I imported the dataset into Tableau to cr
 3. **Number of Smartphone Users**: A line chart illustrating the trend of smartphone users over time.
 4. **Top 20 ranked countries by life expectancy**: A bar chart showing the top 20 countries by their life expectancy.
 
-### 👥 Contributions
-Contributions are welcome! Feel free to open issues or submit pull requests for any improvements or suggestions.
-
 ### 🎨 Dashboard
 ![image](https://github.com/ElizabethM91/Excel-and-Tableau-Project-using-Wealth-of-Nations/assets/13765069/293c50a3-9209-4eb3-b8b6-c40d9e2e136c)
 
 To view my live dashboard [click here](https://public.tableau.com/app/profile/elizabeth.muir/viz/TheWealthofNations_17113745329420/WealthofNations)
 
+### 👥 Contributions
+Contributions are welcome! Feel free to open issues or submit pull requests for any improvements or suggestions.
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/ElizabethM91/SQL-World-Data-Database?style=for-the-badge&logo=github&logoColor=black&labelColor=00D6C6&color=035BFF)
