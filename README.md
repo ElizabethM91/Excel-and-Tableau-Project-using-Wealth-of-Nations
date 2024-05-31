@@ -25,3 +25,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests for 
 ![image](https://github.com/ElizabethM91/Excel-and-Tableau-Project-using-Wealth-of-Nations/assets/13765069/293c50a3-9209-4eb3-b8b6-c40d9e2e136c)
 
 To view my live dashboard [click here](https://public.tableau.com/app/profile/elizabeth.muir/viz/TheWealthofNations_17113745329420/WealthofNations)
+
+
+![GitHub Repo stars](https://img.shields.io/github/stars/ElizabethM91/SQL-World-Data-Database?style=for-the-badge&logo=github&logoColor=black&labelColor=00D6C6&color=035BFF)
