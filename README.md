@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="style.css"> </link>
-
 ![header](https://capsule-render.vercel.app/api?type=slice&height=200&&color=0:00FF17,100:0080FF&text=Wealth%20of%20Nations&fontSize=50&fontAlignY=33&fontAlign=72&rotate=13&stroke=000000&strokeWidth=2&fontColor=fff)
 
 ## <div align="center">🌍🌟 Wealth of Nations Dataset Analysis 🌟🌍</div>
