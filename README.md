@@ -26,4 +26,4 @@ To view my live dashboard [click here](https://public.tableau.com/app/profile/el
 ### 👥 Contributions
 Contributions are welcome! Feel free to open issues or submit pull requests for any improvements or suggestions.
 
-![GitHub Repo stars](https://img.shields.io/github/stars/ElizabethM91/SQL-World-Data-Database?style=for-the-badge&logo=github&logoColor=black&labelColor=00D6C6&color=035BFF)
+![GitHub Repo stars](https://img.shields.io/github/stars/ElizabethM91/Excel-and-Tableau-Project-using-Wealth-of-Nations?style=for-the-badge&logo=github&logoColor=black&labelColor=00D6C6&color=035BFF)
