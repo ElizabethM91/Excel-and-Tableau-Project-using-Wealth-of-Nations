@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&height=200&&color=0:00FF17,100:0080FF&text=Wealth%20of%20Nations&fontSize=50&fontAlignY=33&fontAlign=72&rotate=13&stroke=000000&strokeWidth=2&fontColor=fff)
 
-<div style="text-align: center; font-size: 25px;" >🌍🌟 Wealth of Nations Dataset Analysis 🌟🌍</div>
+<div align="center" style="font-size: 25px;" >🌍🌟 Wealth of Nations Dataset Analysis 🌟🌍</div>
 
 ### 🚀 Overview
 This repository contains the analysis of the Wealth of Nations dataset using Excel and Tableau. The dataset provides insights into various socio-economic indicators across different countries. The analysis involves data cleaning, filtering, sorting, and visualization to uncover trends and patterns.
